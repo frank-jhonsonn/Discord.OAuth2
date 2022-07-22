@@ -16,6 +16,6 @@ services.AddAuthentication()
         x.AppSecret = Configuration["Discord:AppSecret"];
         x.Scope.Add("guilds");
     });
-```
+``` 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ
   
